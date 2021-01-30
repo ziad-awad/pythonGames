@@ -1,5 +1,7 @@
 """
 Monte Carlo Tic-Tac-Toe Player
+you can run it in 
+http://www.codeskulptor.org/
 """
 
 import random
