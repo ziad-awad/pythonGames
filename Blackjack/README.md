@@ -6,4 +6,4 @@ For other casino type games, see our guides for Texas Hold'em Poker and Seven Ca
 I wrote it in python . you can try and play it with this link 
 http://www.codeskulptor.org/#user48_KWKCPjBt9p_0.py
 
-![](https://github.com/ziad-awad/pythonGames/blob/main/2048%20Game/img/2048game.PNG)
+![](https://github.com/ziad-awad/pythonGames/blob/main/Blackjack/img/blackjack.PNG)
